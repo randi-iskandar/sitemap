@@ -1,0 +1,2 @@
+# sitemap
+mysitemap
